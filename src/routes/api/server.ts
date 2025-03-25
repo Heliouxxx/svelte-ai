@@ -17,7 +17,7 @@ export const POST: RequestHandler = async ({ request }) => {
         email: "202211530@gordoncollege.edu.ph",
         phone: "09620775309",
         birthday: "2003-10-27",
-        age: 21,
+        age: 22,
         gender: "Male",
         nationality: "Filipino",
         address: {
